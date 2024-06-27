@@ -1,0 +1,19 @@
+{
+  "name": "dataURL-size-calculator",
+  "version": "1.0.0",
+  "description": "Calculates the size of an image encoded in a Data URL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dataurl",
+    "image",
+    "size",
+    "calculator"
+  ],
+  "author": "Awa",
+  "license": "MIT"
+}
